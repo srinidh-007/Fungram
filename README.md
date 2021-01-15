@@ -1,3 +1,4 @@
-# Bingo
+# Web Application & Development
 
-This is a place for all networking commands 
+
+This is our first web development project
