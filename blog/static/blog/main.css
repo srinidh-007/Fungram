@@ -1,11 +1,11 @@
 body {
     background: #fafafa;
-    color: #333333;
+    color: yellow
     margin-top: 5rem;
   }
   
   h1, h2, h3, h4, h5, h6 {
-    color: #444444;
+    color: green
   }
   
   ul {
@@ -21,7 +21,7 @@ body {
   }
   
   .site-header .navbar-nav .nav-link:hover {
-    color: #ffffff;
+    color: blue
   }
   
   .site-header .navbar-nav .nav-link.active {
