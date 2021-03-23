@@ -1,4 +1,4 @@
 # Web Application & Development
 
 
-This is our first web development project
+This is my first web development project
