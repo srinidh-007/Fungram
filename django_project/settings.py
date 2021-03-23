@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECURITY_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','https://fungram.herokuapp.com/']
+ALLOWED_HOSTS = ['https://fungram.herokuapp.com/']
 
 
 # Application definition
