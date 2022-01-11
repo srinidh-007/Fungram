@@ -1,4 +1,4 @@
 # Web Application & Development
 
 
-This is my first web development project
+This is a blogging site created for fun
