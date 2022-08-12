@@ -1,4 +1,4 @@
 # Web Application & Development
 
 
-This is our first web development project
+Web application kind of a social blogging site developed using django
